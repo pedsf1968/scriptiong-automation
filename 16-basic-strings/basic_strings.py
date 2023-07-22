@@ -1,3 +1,10 @@
+# +: concatenate strings
+# 0: index of the first character
+# -1: index of the last character
+# N: index of the N character
+# -N: index of the N character of the end
+# len(STRING): return the length of the string
+
 # Use single, double and triple double quotes
 my_name='Zola'
 my_new_name="Python Developer"

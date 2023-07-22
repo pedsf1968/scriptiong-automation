@@ -1,3 +1,6 @@
+# #: comment all line
+# ''' ''': comment multiple lines
+
 # This is a simple arithmetic calculator
 # Use shabang for comments
 a=4

@@ -1,3 +1,12 @@
+# startswith(VALUE): return True or False if the string is starting with VALUE
+# islower(): return True if the string is in lower case
+# isupper(): return True if the string is in upper case
+# istitle(): return True if the string is a title
+# isspace(): return True if the string is spaces
+# isalpha(): return True if the string is letters
+# isnumeric(): return True if the string is number
+# help(VALUE): print help about VALUE
+
 # String start testing
 my_str="Python"
 my_str_start='P'

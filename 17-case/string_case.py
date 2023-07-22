@@ -1,3 +1,11 @@
+# lower(): change string to lower case
+# upper(): change string to upper case
+# swapcase(): swap case of a string
+# title(): change first char to upper case
+# capitalize(): change first char to upper of all words
+# casefold(): change all to lower case but more agressive
+# dir(VALUE): give all fonctions can be apply to a VALUE
+
 # Lower and upper case
 my_string="Python scripting tutorial"
 my_string_lower=my_string.lower()

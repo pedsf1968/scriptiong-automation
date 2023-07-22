@@ -1,4 +1,4 @@
-# Imprt os to get size of terminal
+# Import os to get size of terminal
 import os
 
 screen_width=os.get_terminal_size().columns

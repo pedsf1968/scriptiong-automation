@@ -1,3 +1,6 @@
+# join(): join char with others
+# zfill(N): fill string with zero to complete a string of N chars
+
 # Use join
 x="python"
 y="-".join(x)

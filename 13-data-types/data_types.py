@@ -1,3 +1,5 @@
+# bool(VALUE): return True if VALUE is not empty else False
+
 var_x=4.5
 print(var_x)
 print("Get variable address")

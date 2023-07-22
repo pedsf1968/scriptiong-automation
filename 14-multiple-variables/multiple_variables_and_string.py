@@ -1,3 +1,5 @@
+# format(VALUES): replace empty calibraces by values
+# f: change variables with theirs values
 x=3
 y=4.5
 language_name="Python scripting"

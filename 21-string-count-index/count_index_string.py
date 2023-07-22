@@ -1,3 +1,7 @@
+# count(VALUES): give how many time VALUE apear in the string
+# index(VALUES): return the index of VALUE in string
+# find(VALUES): return the index of VALUE if exist
+
 my_str="python is easy and it is popular language"
 my_str_cont="is"
 print(f"Count string {my_str_cont} in {my_str}: {my_str.count(my_str_cont)}")

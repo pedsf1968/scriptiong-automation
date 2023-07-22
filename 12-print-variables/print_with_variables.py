@@ -1,5 +1,8 @@
+# type(VALUE): return the data type of VALUE
+
 # Use variables with letters, numbers and underscores
 # don't use predefined words like if, print...
+
 x=4
 y=5.7
 print("Print the x and y values")

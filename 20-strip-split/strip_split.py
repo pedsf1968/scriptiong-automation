@@ -1,3 +1,6 @@
+# strip(): remove chars
+# split(): cut strings
+
 # Remove characters with strip
 my_str="   python  "
 print(f"Remove spaces from string \'{my_str}\': \'{my_str.strip()}\'")

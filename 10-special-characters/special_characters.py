@@ -1,3 +1,8 @@
+# \n: next line
+# \t: tabulation
+# \b: back space
+# \: escape character
+
 # Use double " or simple ' quote for string
 print("Welcome to python scripting")
 print('We are working with special characters')
