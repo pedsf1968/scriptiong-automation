@@ -1,0 +1,8 @@
+Write a list of lines
+This is the first line
+This is the second line
+This is the third line
+AppendWrite a list lines with loop
+AppendThis is the first line
+AppendThis is the second line
+AppendThis is the third line
