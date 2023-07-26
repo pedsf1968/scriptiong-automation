@@ -1,0 +1,57 @@
+{
+    "Name": "PEDSF",
+    "skills": {
+        "Cloud": [
+            "AWS",
+            "Azure"
+        ],
+        "Orchestration": [
+            "Kubernetes",
+            "Swarm"
+        ],
+        "Application Lifecycle Management": [
+            "Jira",
+            "Trello"
+        ],
+        "SCM/VCS": [
+            "Git",
+            "GitHub",
+            "GitLab",
+            "Bitbucket"
+        ],
+        "CI": [
+            "Jenkins",
+            "Travis CI"
+        ],
+        "Build": [
+            "Maven"
+        ],
+        "languages": [
+            "Java",
+            "Python",
+            "shell",
+            "yaml"
+        ],
+        "Provisionning": [
+            "Ansible",
+            "Terraform",
+            "Vagrant"
+        ],
+        "Artefact Management": [
+            "DockerHub"
+        ],
+        "Knowledge Sharing": [
+            "Confluence",
+            "OpenAPI"
+        ],
+        "Testing": [
+            "Cucumber",
+            "JUnit"
+        ],
+        "BI / Monitoring / Logging": [
+            "Prometheus",
+            "Grafana",
+            "Elasticsearch"
+        ]
+    }
+}
